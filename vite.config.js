@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   build: { outDir: "docs" },
-	base: "react-tailwind-landing-page",
+	base: "react-styled-components-landing-page",
 })
